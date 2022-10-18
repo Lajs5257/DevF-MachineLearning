@@ -5,6 +5,7 @@
 
 El cual fue impartido por [**Dev.F**.](https://devf.la/master/data/pu)
 
+---
 ### 6. Machine Learning :robot:
 > Pendiente...
 > Los temas se abordaran serán los siguientes:
